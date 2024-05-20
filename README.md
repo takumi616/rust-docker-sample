@@ -1,2 +1,2 @@
 # rust-docker-sample
-Sample of rust environment with docker.
+Rust http server sample with docker container.
